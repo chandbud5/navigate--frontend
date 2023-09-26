@@ -18,7 +18,7 @@ Navigate is designed to foster meaningful connections and support between studen
 ## Table of Contents
 1. [Demo](#demo)
 2. [Installation](#install)
-3. [Tech Stack](#tech)
+3. [Tech Stack](#technology-stack)
 4. [Authors](#author)
 5. [License](#license)
 
