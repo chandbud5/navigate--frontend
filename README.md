@@ -9,6 +9,12 @@
 
 Navigate is designed to foster meaningful connections and support between students and industry professionals. Whether you're a student looking to build your network, or a professional looking to give back, Navigate provides a platform to make it happen.
 
+### Artefacts
+- [PRD](https://drive.google.com/file/d/1vFwQoFOKdYbJjKoXgK9Gp107UFMgfppo/view)
+- [UX Wireframes](https://www.figma.com/file/K77byFYmQymbV6hpOxu0Kw/Navigate?node-id=0%3A1)
+- [Engineering Design Sketch](https://drive.google.com/file/d/1vGP1uLvdUkSVlmXEssPJ4kpEg448obqZ/view?usp=sharing)
+- [BackEnd](https://github.com/chandbud5/navigate-backend)
+
 ## Table of Contents
 1. [Demo](#demo)
 2. [Installation](#install)
